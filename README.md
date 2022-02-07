@@ -1,6 +1,8 @@
 # hit_counter
-The code for Docker Compose Example, and I use it for Jenkins CI CD as well.
+This repo is just a place to practice ci/cd with a simple app.  
 
-Disclaimer the code is from Docker Hub Documentation at this link:
+The code was forked from https://github.com/efoda/hit_counter, as the repo was featured in an exercise for the Packt Packt Publishing text The Docker Workshop.  
+
+The code originates from an example on the Docker Documentation at this link:
 
 [https://docs.docker.com/compose/gettingstarted/](https://docs.docker.com/compose/gettingstarted/)
